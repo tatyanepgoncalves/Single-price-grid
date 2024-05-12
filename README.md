@@ -14,7 +14,7 @@
 ## Como Executar
 Para executar o aplicativo, basta abrir o arquivo index.html em um navegador da web compatível.
 
-[Ou clique no aqui e será direcionado ao site ativo.]()
+[Ou clique no aqui e será direcionado ao site ativo.](https://tatyanepgoncalves.github.io/Single-price-grid/)
 
 ## Personalização
 Esse projeto pode ser personalizado para diversos fins.
